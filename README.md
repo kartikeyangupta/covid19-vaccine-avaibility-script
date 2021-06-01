@@ -1,10 +1,10 @@
-# covid19-vaccine-vaccany-script
+# covid19-vaccine-availability-script
 Script needs python, will update based on your district run on a terminal in backround.
 
 ## How to install
 ```
 git clone https://github.com/kartikeyangupta/covid19-vaccine-vaccany-script.git
-cd covid19-vaccine-vaccany-script
+cd covid19-vaccine-availability-script
 python -m venv .env
 ------------------
 for windows:
